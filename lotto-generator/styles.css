@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #ffffff;
+}
+
+.container {
+    background-color: #7779ff;
+    padding: 10%;
+    box-shadow: #f1a2ff;
+    border-radius: 5%;
+
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-left: 20%;
+    color: #686afd;
+    font-weight: 1000;
+}
+
+#numbers {
+    font-size: medium;
+    text-align: center;
+    color: #ffffff;
+    margin-top: 10%;
+}
+
